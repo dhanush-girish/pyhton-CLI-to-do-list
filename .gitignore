@@ -1,0 +1,12 @@
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+
+# Database/Save Files
+tasks.json
